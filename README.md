@@ -2,6 +2,9 @@
 
 Parallels DaaS is a cloud-native, Desktop-as-a-Service (DaaS) solution that offers users secure, instant access to their virtual applications and desktops.
 
+> [!CAUTION]
+> These scripts are not required anymore to Deploy Parallels DaaS. Please refer to the Parallels DaaS Admin guide for more information.
+
 ## Features
 
 - Quick, easy onboarding and management
